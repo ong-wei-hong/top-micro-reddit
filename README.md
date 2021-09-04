@@ -4,7 +4,8 @@
 
 <p>The data is only accessible through rails console</p>
 
-<p>To run:<br><code>bundle install<br>rails c</code></p><br>
+<p>To run:<br><code>bundle install</code></p>
+<p><code>rails c</code></p><br>
 
 <p>There are 3 models: User, Post, Comment</p>
 <p>A user has an username, posts and comments</p>
